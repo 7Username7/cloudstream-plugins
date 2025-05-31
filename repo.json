@@ -1,10 +1,1 @@
-{
-  "pluginLists": [
-    "https://raw.githubusercontent.com/7Username7/cloudstream-plugins/main/AkwamProvider.cs3",
-    "https://raw.githubusercontent.com/7Username7/cloudstream-plugins/main/Anime4upPack.cs3",
-    "https://raw.githubusercontent.com/7Username7/cloudstream-plugins/main/IPTVProvider.cs3",
-    "https://raw.githubusercontent.com/7Username7/cloudstream-plugins/main/Series9Provider.cs3",
-    "https://raw.githubusercontent.com/7Username7/cloudstream-plugins/main/WatchHubProvider.cs3",
-    "https://raw.githubusercontent.com/7Username7/cloudstream-plugins/main/SportsIPTV.cs3"
-  ]
-}
+// Dummy content for repo.json
